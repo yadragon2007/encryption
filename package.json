@@ -1,0 +1,19 @@
+{
+  "name": "encryption",
+  "version": "1.0.0",
+  "description": "encryption data form string to binary system",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/yadragon2007/encryption.git"
+  },
+  "author": "dragon code",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yadragon2007/encryption/issues"
+  },
+  "homepage": "https://github.com/yadragon2007/encryption#readme"
+}

@@ -290,3 +290,10 @@ function handleData(encryptionData) {
   }
   return null;
 }
+
+
+module.exports = {
+  encryptionToArray,
+  encryptionToText,
+  decryption,
+}
